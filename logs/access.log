@@ -1,5 +1,0 @@
-127.0.0.1 - - [29/Oct/2019:10:14:11 +0800] "GET /jsp/index.jsp HTTP/1.1" 200 139 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0"
-127.0.0.1 - - [29/Oct/2019:10:14:27 +0800] "GET /jsp/index.jsp HTTP/1.1" 200 145 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0"
-127.0.0.1 - - [29/Oct/2019:10:44:55 +0800] "GET /jsp/index.jsp HTTP/1.1" 404 300 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0"
-127.0.0.1 - - [29/Oct/2019:11:35:11 +0800] "GET /jsp/index.jsp HTTP/1.1" 200 145 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0"
-127.0.0.1 - - [30/Oct/2019:11:06:55 +0800] "GET /document/index.jsp HTTP/1.1" 200 139 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0"
